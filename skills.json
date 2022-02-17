@@ -1,0 +1,9 @@
+{
+"Testing theory": ["What is testing", "bug reports", "documentation", "types", "methods", "areas of testing", "SDLS", "STLS"],
+"HTTP": ["Methods of requests to the server", "server response codes", "Structures of HTTP requests and responses"],
+"API testing via Postman": ["JS", "API autotests"],
+"Dev Tools of web browsers": ["Google Chrome", "FireFox"],
+"VPN": ["how it works", "how to use", "tools"],
+"Mobile testing": ["Android", "IOS"],
+"SQL": "basics"
+}
