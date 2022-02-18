@@ -26,14 +26,14 @@
 13. Отправить сразу 2 файла на внешний репозиторий
      * git add . | git commit -am "add files preferences, skills"
 14. На веб интерфейсе создать файл bug_report.json.
-    8 Add File -> Create new file -> defect_report.json
-14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
+    * Add File -> Create new file -> defect_report.json [https://github.com/AngelinaTomashenko/JSON/blob/4ce470de674240f82c426a356693e248cad03b6d/defect_report.json]
+15. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
     * Commit changes
-15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
+16. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
 * Add File -> Create new file -> defect_report.json
-16. Сделать Commit changes (сохранить) изменения на веб интерфейсе
+17. Сделать Commit changes (сохранить) изменения на веб интерфейсе
     * Commit changes
-17. Синхронизировать внешний и локальный репозиторий JSON
+18. Синхронизировать внешний и локальный репозиторий JSON
     * git pull
 
 
