@@ -6,7 +6,7 @@
 2. Клонировать репозиторий JSON на локальный компьютер
 * git clone [https://github.com/AngelinaTomashenko/JSON.git]
 3. Внутри локального JSON создать файл “new.json”
-*  touch new.json
+*  touch new.json [https://github.com/AngelinaTomashenko/JSON/blob/7a7f7b050907ce4e629334314326834f1c12fa3a/new.json]
 4. Добавить файл под гит 
 * git add new.json
 5. Закоммитить файл 
