@@ -18,7 +18,7 @@
 8. Отправить изменения на внешний репозиторий 
 * git commit -am "add info in file" -> git push
 9. Создать файл preferences.json
-* touch preferences.json 
+* touch preferences.json [https://github.com/AngelinaTomashenko/JSON/blob/5047258cdb42851cd1ddc9b5aa0c3238e6467017/preferences.json]
 10. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON
 * nano preferences.json
 11. Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
