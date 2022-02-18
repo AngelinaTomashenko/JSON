@@ -24,7 +24,7 @@
 11. Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
 * touch skills.json [https://github.com/AngelinaTomashenko/JSON/blob/0de193555ddc68481c4a4bd7a37ebd7af18dd2f4/skills.json]
 12. Отправить сразу 2 файла на внешний репозиторий
-* git add . | git commit -am "add files preferences, skills"
+* git add .; git commit -m "add files preferences, skills"
 13. На веб интерфейсе создать файл bug_report.json.
 * GitHub -> Add File -> Create new file -> defect_report.json [https://github.com/AngelinaTomashenko/JSON/blob/4ce470de674240f82c426a356693e248cad03b6d/defect_report.json]
 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
