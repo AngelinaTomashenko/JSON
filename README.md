@@ -22,7 +22,7 @@
 10. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON
 * nano preferences.json
 11. Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
-* touch skills.json
+* touch skills.json [https://github.com/AngelinaTomashenko/JSON/blob/0de193555ddc68481c4a4bd7a37ebd7af18dd2f4/skills.json]
 13. Отправить сразу 2 файла на внешний репозиторий
      * git add . | git commit -am "add files preferences, skills"
 14. На веб интерфейсе создать файл bug_report.json.
