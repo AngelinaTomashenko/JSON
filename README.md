@@ -2,7 +2,7 @@
 ## Home work GitBash
 
 1. Создать внешний репозиторий c названием JSON
-* GItHub -> Create repository 
+* GitHub -> Create repository 
 2. Клонировать репозиторий JSON на локальный компьютер
 * git clone [https://github.com/AngelinaTomashenko/JSON.git]
 3. Внутри локального JSON создать файл “new.json”
