@@ -30,7 +30,7 @@
 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 * Commit changes
 15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
-* Add File -> Create new file -> defect_report.json
+* 
 16. Сделать Commit changes (сохранить) изменения на веб интерфейсе
 * Commit changes
 17. Синхронизировать внешний и локальный репозиторий JSON
